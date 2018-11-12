@@ -1,3 +1,8 @@
+.main {
+  background-image: /clouds;
+
+}
+
 .parallax {
   perspective: 1px;
   height: 100vh;
